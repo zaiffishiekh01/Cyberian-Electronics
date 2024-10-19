@@ -5,19 +5,19 @@
 4 silly config load:file:E:\Saad Rehman-GitHub\Cyberian-Electronics\.npmrc
 5 silly config load:file:C:\Users\saadr\.npmrc
 6 silly config load:file:C:\Users\saadr\AppData\Roaming\npm\etc\npmrc
-7 verbose title npm exec shadcn@latest add https://v0.dev/chat/b/b_9F4OspygLR8?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..SD7rK4MRsmh7h3KF.DI6ItpwaGNxhiQhqIC1wKMF_dMYrT1ZQLgKtcVqhSGT4nBaoDI2bOfYn8Ug.f83r8HSjE1zjOgMw15c4IA
-8 verbose argv "exec" "--" "shadcn@latest" "add" "https://v0.dev/chat/b/b_9F4OspygLR8?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..SD7rK4MRsmh7h3KF.DI6ItpwaGNxhiQhqIC1wKMF_dMYrT1ZQLgKtcVqhSGT4nBaoDI2bOfYn8Ug.f83r8HSjE1zjOgMw15c4IA"
-9 verbose logfile logs-max:10 dir:E:\Saad Rehman-GitHub\Cyberian-Electronics\%APPDATA%\npm-cache\_logs\2024-10-19T17_05_37_470Z-
-10 verbose logfile E:\Saad Rehman-GitHub\Cyberian-Electronics\%APPDATA%\npm-cache\_logs\2024-10-19T17_05_37_470Z-debug-0.log
+7 verbose title npm exec shadcn@latest add https://v0.dev/chat/b/b_gNuHQawEA6k?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..mydV2391i81G4P5Y.NzjcQbPeTL8lW7ysHlfuxIZOLzTJ84c3PE0au5f5dSJV0ptnJVVngIy9leE.by9SxauyHvaME_0E3XX-FA
+8 verbose argv "exec" "--" "shadcn@latest" "add" "https://v0.dev/chat/b/b_gNuHQawEA6k?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..mydV2391i81G4P5Y.NzjcQbPeTL8lW7ysHlfuxIZOLzTJ84c3PE0au5f5dSJV0ptnJVVngIy9leE.by9SxauyHvaME_0E3XX-FA"
+9 verbose logfile logs-max:10 dir:E:\Saad Rehman-GitHub\Cyberian-Electronics\%APPDATA%\npm-cache\_logs\2024-10-19T17_51_05_547Z-
+10 verbose logfile E:\Saad Rehman-GitHub\Cyberian-Electronics\%APPDATA%\npm-cache\_logs\2024-10-19T17_51_05_547Z-debug-0.log
 11 silly logfile start cleaning logs, removing 1 files
 12 silly logfile done cleaning log files
 13 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
-14 http fetch GET 200 https://registry.npmjs.org/shadcn 569ms (cache revalidated)
+14 http fetch GET 200 https://registry.npmjs.org/shadcn 1021ms (cache revalidated)
 15 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
 16 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
 17 verbose cwd E:\Saad Rehman-GitHub\Cyberian-Electronics
 18 verbose os Windows_NT 10.0.22631
 19 verbose node v22.3.0
 20 verbose npm  v10.8.1
-21 verbose exit 1
-22 verbose code 1
+21 verbose exit 0
+22 info ok
