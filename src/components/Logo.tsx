@@ -13,4 +13,5 @@ export default function Logo() {
       <span className="text-xl font-bold text-gray-900 dark:text-white">Cyberian Electronics</span>
     </div>
   );
+
 }
