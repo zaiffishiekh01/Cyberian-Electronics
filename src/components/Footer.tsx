@@ -37,7 +37,7 @@ export default function Footer() {
           <div className="space-y-8">
             <Logo />
             <p className="text-sm leading-6 text-gray-300">
-              We create digital experiences for brands and companies by using technology.
+              We createeeeeeeeeeeee digital experiences for brands and companies by using technology.
             </p>
             <div className="flex space-x-6">
               {navigation.social.map((item) => (
