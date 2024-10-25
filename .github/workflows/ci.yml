@@ -1,0 +1,31 @@
+name: CI for Next.js Website
+
+on:
+  push:
+    paths:
+      - 'src/**'  # Only run the CI workflow when files in the src folder are changed
+  pull_request:
+    paths:
+      - 'src/**'  # Run CI on pull requests if files in src folder are changed
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'  # Specify the Node.js version compatible with your Next.js project
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run Next.js build
+      run: npm run build
+
+    - name: Run tests
+      run: npm test  # Run your Next.js project tests if they are set up
